@@ -1,6 +1,7 @@
 <div align="center" width="50">
 
   <img src="https://github.com/hamzasawafta2004/Hamza-Sawafta/blob/main/Hamza%20sawafta.png?raw=true" alt="I'm Hamza Sawafta" width="40%"/> <br>
+  <img src="https://github.com/hamzasawafta2004/Hamza-Sawafta/blob/main/AI.jpg?raw=true" alt="AI Banner" height="300"/> <br>
 
   <h1>👋 Hamza Sawafta</h1>
 
