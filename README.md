@@ -1,8 +1,6 @@
 <div align="center" width="50">
 
-  <img src="" alt="Hello Coders" width="60%"/> <br>
-  <img src="![Uploading ChatGPT Image Oct 8, 2025, 08_36_32 PM.png…]()
-" alt="AI / Data Analytics Workspace" width="40%"/><br>
+  <img src="https://github.com/hamzasawafta2004/Hamza-Sawafta/blob/main/Hamza%20sawafta.png?raw=true" alt="I'm Hamza Sawafta" width="40%"/> <br>
 
   <h1>👋 Hamza Sawafta</h1>
 
@@ -12,7 +10,7 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=HamzaSawafta&style=flat&color=orange&label=PROFILE+VIEWS)
 
-  [![telegram badge](https://img.shields.io/badge/Hamza_Sawafta-grey?style=flat&logo=telegram)](https://t.me/YourTelegramUsername)
+  [![telegram badge](https://img.shields.io/badge/Hamza_Sawafta-grey?style=flat&logo=telegram)](https://web.telegram.org/k/)
   [![YouTube badge](https://img.shields.io/badge/Hamza_Sawafta-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@hamzasawafta24)
   [![LinkedIn badge](https://img.shields.io/badge/Hamza_Sawafta-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sawafta-497aa22b1/)
   <br>
